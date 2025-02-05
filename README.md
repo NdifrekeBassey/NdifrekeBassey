@@ -8,6 +8,7 @@
 ---
 
 ## 🚀 About Me  
+
 🔹 **Aspiring Software Engineer** passionate about **Cybersecurity, AI, and Web Development**.  
 🔹 **Studying**: Computer & Robotics Education at the **University of Uyo**.  
 🔹 **Founder of [Eagletech](https://linktr.ee/eagletech1)** – specializing in **Website Development** & **Software Services**.  
@@ -57,6 +58,9 @@
   </a>
   <a href="https://linktr.ee/eagletech1">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+  <a href="https://wa.me/2349070332721" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
