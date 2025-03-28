@@ -22,8 +22,10 @@
 - 🔭 **Currently Working On:**  
   - 🏗 Enhancing my **full-stack development** skills.  
   - 🛡 Exploring **cybersecurity** & **ethical hacking**.  
-  - 📊 Developing a **CGPA Calculator** for university students.  
+  - ✅ **Completed:** **CGPA Calculator** for university students.  
   - ☁ Researching **secure & reliable hosting services**.  
+  - 🤖 **X Roast** – AI-powered roast generator for witty comebacks.  
+  - 📱 **Social Media Enhancer** – AI-powered tool for optimizing Facebook, X, and LinkedIn profiles.  
 
 - 🌱 **Currently Learning:**  
   - 🔐 Cybersecurity (Offensive Security & Ethical Hacking).  
