@@ -13,7 +13,7 @@
 🔹 **Studying**: Computer & Robotics Education at the **University of Uyo**.  
 🔹 **Founder of [Eagletech](https://linktr.ee/eagletech1)** – specializing in **Website Development** & **Software Services**.  
 🔹 **Always Learning:** Offensive Security, AI, and Full-Stack Development.  
-🔹 **Goal:** To **transition into cybersecurity**, master **AI**, and earn a **Master’s & PhD in Tech**.  
+🔹 **Goal:** To **transition into cybersecurity**, master **AI**, and earn a **Master’s & PhD in Tech or a selected field**.  
 
 ---
 
